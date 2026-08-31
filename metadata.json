@@ -1,0 +1,41 @@
+{
+  "team_id": "team_17",
+  "team_name": "team_17 (Rathje & Mirea)",
+  "contact": "srathje@andrew.cmu.edu",
+  "creators": [
+    {
+      "name": "Rathje, Steve",
+      "affiliation": "Carnegie Mellon University",
+      "orcid": "0000-0001-6727-571X"
+    },
+    {
+      "name": "Mirea, Dan-Mircea",
+      "affiliation": "Princeton University",
+      "orcid": "0000-0002-4349-7059"
+    }
+  ],
+  "abstract": "",
+  "license": "CC-BY-4.0",
+  "code_repository": "(this deposit)",
+  "code_doi": null,
+  "disclosure_class": "A",
+  "escrow_doi": null,
+  "zenodo_doi": null,
+  "coverage": {
+    "interventions": 16,
+    "outcomes": 13
+  },
+  "blinding_attestation": true,
+  "tier": 1,
+  "entry": "secondary-3",
+  "approach_family": "per-respondent simulation (batched sessions, matched-control block-mixture calibration), single model",
+  "models": [
+    "gpt-5.6-sol"
+  ],
+  "prediction_files": [
+    {
+      "file": "predictions/team_17_T1_secondary-3_v1.csv",
+      "sha256": "a2a4bc2c105dd0f9bd9764fb3c2b43634d8671d90b5609fd874df39b45648b2f"
+    }
+  ]
+}
